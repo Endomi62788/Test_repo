@@ -1,0 +1,1 @@
+SELECT * FROM bike_share.bike_share_merge_v02;
